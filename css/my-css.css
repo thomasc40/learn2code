@@ -1,0 +1,42 @@
+.heading{
+	text-align: center;
+	color: #68A4C4;
+	font-size: 50px
+}
+.cta-text h2{
+	
+	margin-bottom: -50px;
+
+}
+#thumbs img{
+	border-radius: 10px;
+}
+.col-lg-4 h2{
+	text-align: center;
+}
+.overlay-img-thumb.font-icon-plus{
+	text-align: center;
+}
+article .post-heading h3 {
+text-align: center;
+}
+
+article .post-heading h1 {
+text-align: center;
+}
+.quotes {
+	display: none;
+}
+
+.col-lg-6 h3{
+text-align: center;
+}
+.row-demobtn h1{
+	text-align:center;
+}
+.big-cta{
+ font-size: 60px;
+}
+.navbar-brand span {
+font-size: 46px;
+}
