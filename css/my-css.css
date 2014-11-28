@@ -40,3 +40,13 @@ text-align: center;
 .navbar-brand span {
 font-size: 46px;
 }
+.bottom-map{
+	float:right;
+}
+.extra { 
+    display: none;
+}
+
+p:hover .extra {
+    display: inline-block;
+}
